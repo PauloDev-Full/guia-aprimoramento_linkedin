@@ -245,3 +245,6 @@ Crie duas opções respeitando estritamente o limite máximo de 300 caracteres (
 ---
 Análise e engenharia documentadas por Paulo Henrique F. para o Bootcamp Santander 2026 - DIO.
 
+> ⚠️ **Nota de Transparência e Engenharia:** Este guia preserva intencionalmente todas as respostas na íntegra, dados brutos e testes de prompts originais ("Cicatrizes"). Ocultar as bases de referência por limitações de formatação comprometeria o valor educativo do projeto; manter a rastreabilidade total garante o aprofundamento técnico de quem deseja consumir este ecossistema.
+
+
